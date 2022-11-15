@@ -1,0 +1,16 @@
+{
+    "name": "automated-testing",
+    "version": "1.0.0",
+    "description": "My First Unit Test",
+    "main": "main.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "Daniel C. Horcera",
+    "license": "ISC",
+    "dependencies": {
+      "jest": "^29.2.2"
+    }
+  }
+  
